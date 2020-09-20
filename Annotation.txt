@@ -1,4 +1,6 @@
-I hope you will get it after knowing that the "Annotations" are used to provide supplemental information about a program. It is a tag that represents the "metadata" i.e. attached with class, interface, methods, or fields to indicate some additional information that can be used by java compiler and JVM.
+I hope you will get it after knowing that the "Annotations" are used to provide supplemental information about a program. 
+It is a tag that represents the "metadata" i.e. attached with class, interface, methods, or fields to indicate some additional 
+information that can be used by java compiler and JVM.
 
 Annotations in Java are used to provide additional information, so it is an alternative option for XML and Java marker interfaces.
 
